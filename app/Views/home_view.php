@@ -32,31 +32,28 @@
       </div>
       <div class="col-lg-8 content">
         <h2>UI/UX Designer &amp; Web Developer.</h2>
-        <p class="fst-italic py-3">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore
-          magna aliqua.
-        </p>
+        <p class="fst-italic py-3">Hello! I'm a student of Information Systems at Universitas Nahdlatul Ulama Indonesia. My passion lies in programming, specifically using Java and PHP. I enjoy building innovative web applications and software solutions.</p>
         <div class="row">
           <div class="col-lg-6">
             <ul>
-              <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>1 May 1995</span></li>
-              <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
-              <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+123 456 7890</span></li>
-              <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>New York, USA</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>04 Sebtember 2003</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.portoferryexc.com</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+62 8380 6792 709</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>City:</strong> <span>Jakarta, Indonesia</span></li>
             </ul>
           </div>
           <div class="col-lg-6">
             <ul>
-              <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>30</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Age:</strong> <span>20</span></li>
               <li><i class="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master</span></li>
-              <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>email@example.com</span></li>
+              <li><i class="bi bi-chevron-right"></i> <strong>Email:</strong> <span>ferrykurniawan.exc@gmail.com</span></li>
               <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
             </ul>
           </div>
         </div>
         <p class="py-3">
-          Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis.
-          Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque.
+        I'm constantly learning and exploring new technologies to expand my skill set. When I'm not coding, you can find me reading tech blogs, participating in hackathons, or working on personal projects.
+        Feel free to explore my repositories and reach out if you'd like to collaborate on exciting tech projects!
         </p>
       </div>
     </div>
@@ -185,7 +182,7 @@
   <!-- Section Title -->
   <div class="container section-title" data-aos="fade-up">
     <h2>Resume</h2>
-    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+    <p>Passionate and dedicated Information Systems student at Universitas Nahdlatul Ulama Indonesia with strong programming skills in Java and PHP. Eager to apply my knowledge in real-world projects and contribute to innovative solutions.</p>
   </div><!-- End Section Title -->
 
   <div class="container">
