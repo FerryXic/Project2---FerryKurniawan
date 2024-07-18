@@ -21,7 +21,7 @@
   <!-- Section Title -->
   <div class="container section-title" data-aos="fade-up">
     <h2>About</h2>
-    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+    <p>Hello! I'm a student of Information Systems at Universitas Nahdlatul Ulama Indonesia. My passion lies in programming, specifically using Java and PHP. I enjoy building innovative web applications and software solutions.</p>
   </div><!-- End Section Title -->
 
   <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -32,7 +32,7 @@
       </div>
       <div class="col-lg-8 content">
         <h2>UI/UX Designer &amp; Web Developer.</h2>
-        <p class="fst-italic py-3">Hello! I'm a student of Information Systems at Universitas Nahdlatul Ulama Indonesia. My passion lies in programming, specifically using Java and PHP. I enjoy building innovative web applications and software solutions.</p>
+        <p class="fst-italic py-3"></p>
         <div class="row">
           <div class="col-lg-6">
             <ul>
@@ -427,75 +427,6 @@
   </div>
 
 </section><!-- /Portfolio Section -->
-
-<!-- Services Section -->
-<section id="services" class="services section">
-
-  <!-- Section Title -->
-  <div class="container section-title" data-aos="fade-up">
-    <h2>Services</h2>
-    <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-  </div><!-- End Section Title -->
-
-  <div class="container">
-
-    <div class="row gy-4">
-
-      <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
-        <div class="icon flex-shrink-0"><i class="bi bi-briefcase"></i></div>
-        <div>
-          <h4 class="title"><a href="service-details.php" class="stretched-link">Lorem Ipsum</a></h4>
-          <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
-        </div>
-      </div>
-      <!-- End Service Item -->
-
-      <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
-        <div class="icon flex-shrink-0"><i class="bi bi-card-checklist"></i></div>
-        <div>
-          <h4 class="title"><a href="service-details.php" class="stretched-link">Dolor Sitema</a></h4>
-          <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
-        </div>
-      </div><!-- End Service Item -->
-
-      <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="300">
-        <div class="icon flex-shrink-0"><i class="bi bi-bar-chart"></i></div>
-        <div>
-          <h4 class="title"><a href="service-details.php" class="stretched-link">Sed ut perspiciatis</a></h4>
-          <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
-        </div>
-      </div><!-- End Service Item -->
-
-      <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="400">
-        <div class="icon flex-shrink-0"><i class="bi bi-binoculars"></i></div>
-        <div>
-          <h4 class="title"><a href="service-details.php" class="stretched-link">Magni Dolores</a></h4>
-          <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-        </div>
-      </div><!-- End Service Item -->
-
-      <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="500">
-        <div class="icon flex-shrink-0"><i class="bi bi-brightness-high"></i></div>
-        <div>
-          <h4 class="title"><a href="service-details.php" class="stretched-link">Nemo Enim</a></h4>
-          <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-        </div>
-      </div><!-- End Service Item -->
-
-      <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="600">
-        <div class="icon flex-shrink-0"><i class="bi bi-calendar4-week"></i></div>
-        <div>
-          <h4 class="title"><a href="service-details.php" class="stretched-link">Eiusmod Tempor</a></h4>
-          <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
-        </div>
-      </div><!-- End Service Item -->
-
-    </div>
-
-  </div>
-
-</section><!-- /Services Section -->
-
 <!-- Testimonials Section -->
 <section id="testimonials" class="testimonials section light-background">
 
@@ -648,7 +579,7 @@
             </div>
           </div><!-- End Info Item -->
 
-          <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d48389.78314118045!2d-74.006138!3d40.710059!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a22a3bda30d%3A0xb89d1fe6bc499443!2sDowntown%20Conference%20Center!5e0!3m2!1sen!2sus!4v1676961268712!5m2!1sen!2sus" frameborder="0" style="border:0; width: 100%; height: 270px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.4550055386026!2d106.84954757499028!3d-6.203552393784244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f53822aa2c07%3A0xa6f38b403869ad7a!2sGelanggang%20Ilmu!5e0!3m2!1sid!2sid!4v1721305089891!5m2!1sid!2sid" frameborder="0" style="border:0; width: 100%; height: 270px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
       </div>
 
